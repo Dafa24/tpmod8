@@ -1,0 +1,2 @@
+D:\tpmod8\tpmod8\obj\Debug\tpmod8.csproj.AssemblyReference.cache
+D:\tpmod8\tpmod8\obj\Debug\tpmod8.csproj.CoreCompileInputs.cache
